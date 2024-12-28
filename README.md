@@ -131,4 +131,4 @@ suarabilal/
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under a private license and is intended for educational purposes only.
